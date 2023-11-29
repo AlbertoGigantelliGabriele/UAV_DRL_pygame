@@ -12,7 +12,7 @@ This project aims to develop an autonomous navigation system for drones, specifi
 
 ## Technologies and Libraries
 
-The project is developed in Python 3.11.5, making use of the following libraries:
+The project is developed in *Python 3.11.5*, making use of the following libraries:
 - Pygame for simulation and visualization of the environment.
 - OpenCV (cv2) for image processing.
 - Numpy for mathematical calculations and data manipulation.
