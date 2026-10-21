@@ -3,7 +3,7 @@
 # platform: win-64
 abseil-cpp=20211102.0=hd77b12b_0
 absl-py=1.4.0=py311haa95532_0
-aiohttp=3.8.5=py311h2bbff1b_0
+aiohttp=3.14.4
 aiosignal=1.2.0=pyhd3eb1b0_0
 appdirs=1.4.4=pypi_0
 async-timeout=4.0.2=py311haa95532_0
